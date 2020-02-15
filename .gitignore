@@ -1,0 +1,23 @@
+logs/
+generated/
+ml
+out/
+build/
+LOG_PATH_IS_UNDEFINED/
+*.log
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/*
+target/
+
+# Gradle
+.gradle/
