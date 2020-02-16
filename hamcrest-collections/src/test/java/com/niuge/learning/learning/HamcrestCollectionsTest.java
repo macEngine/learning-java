@@ -1,4 +1,4 @@
-package com.niuge.learning;
+package com.niuge.learning.learning;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;

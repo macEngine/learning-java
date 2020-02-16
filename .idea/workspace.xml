@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a20c6d8-15e9-4151-855c-b122e95a0ddd" name="Default" comment="" />
+    <list default="true" id="7a20c6d8-15e9-4151-855c-b122e95a0ddd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/guava-collections/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guava-collections/src/test/java/com/niuge/learning/TestGuavaCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/HamcrestCollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/learning/HamcrestCollectionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/parent-java/target/" />
     <ignored path="$PROJECT_DIR$/hamcrest-collections/target/" />
+    <ignored path="$PROJECT_DIR$/guava-collections/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,50 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hamcrest-collections/pom.xml">
+      <file leaf-file-name="TestGuavaCollections.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guava-collections/src/test/java/com/niuge/learning/TestGuavaCollections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HamcrestCollectionsTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/HamcrestCollectionsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+            <state relative-caret-position="327">
+              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoreMatchers.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
+      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parent-java/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="375">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -71,6 +54,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -89,10 +75,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/parent-java/pom.xml" />
         <option value="$PROJECT_DIR$/hamcrest-collections/pom.xml" />
         <option value="$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/HamcrestCollectionsTest.java" />
+        <option value="$PROJECT_DIR$/guava-collections/pom.xml" />
+        <option value="$PROJECT_DIR$/guava-collections/src/test/java/com/niuge/TestGuavaCollections.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/guava-collections/src/test/java/com/niuge/learning/TestGuavaCollections.java" />
       </list>
     </option>
   </component>
@@ -102,6 +91,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -110,6 +105,9 @@
     <option name="y" value="23" />
     <option name="width" value="1436" />
     <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -128,32 +126,32 @@
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -161,7 +159,7 @@
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="guava-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -170,16 +168,28 @@
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="parent-java" type="462c0819:PsiDirectoryNode" />
+              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="hamcrest-collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,6 +204,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RunDashboard">
@@ -208,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HamcrestCollectionsTest">
+  <component name="RunManager" selected="JUnit.TestGuavaCollections.givenCollection_testContains_thenOk">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -238,8 +251,8 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HamcrestCollectionsTest.givenCollection_whenContainsInAnyOrder_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hamcrest-collections" />
+    <configuration name="TestGuavaCollections.givenCollection_testContains_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guava-collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.niuge.learning.*" />
@@ -249,8 +262,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.niuge.learning" />
-      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.HamcrestCollectionsTest" />
-      <option name="METHOD_NAME" value="givenCollection_whenContainsInAnyOrder_thenOk" />
+      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.TestGuavaCollections" />
+      <option name="METHOD_NAME" value="givenCollection_testContains_thenOk" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -261,8 +274,8 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HamcrestCollectionsTest.givenCollection_whenContains_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hamcrest-collections" />
+    <configuration name="TestGuavaCollections.givenIterables_testAddAll_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guava-collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.niuge.learning.*" />
@@ -272,8 +285,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.niuge.learning" />
-      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.HamcrestCollectionsTest" />
-      <option name="METHOD_NAME" value="givenCollection_whenContains_thenOk" />
+      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.TestGuavaCollections" />
+      <option name="METHOD_NAME" value="givenIterables_testAddAll_thenOk" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -284,8 +297,8 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HamcrestCollectionsTest.givenCollection_whenHasItems_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hamcrest-collections" />
+    <configuration name="TestGuavaCollections.givenList_testTransform_thenOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guava-collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.niuge.learning.*" />
@@ -295,8 +308,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.niuge.learning" />
-      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.HamcrestCollectionsTest" />
-      <option name="METHOD_NAME" value="givenCollection_whenHasItems_thenOk" />
+      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.TestGuavaCollections" />
+      <option name="METHOD_NAME" value="givenList_testTransform_thenOk" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -307,18 +320,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="HamcrestCollectionsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hamcrest-collections" />
+    <configuration name="TestGuavaCollections.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="guava-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.niuge.learning.*" />
+          <option name="PATTERN" value="com.niuge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.niuge.learning" />
-      <option name="MAIN_CLASS_NAME" value="com.niuge.learning.HamcrestCollectionsTest" />
+      <option name="PACKAGE_NAME" value="com.niuge" />
+      <option name="MAIN_CLASS_NAME" value="com.niuge.TestGuavaCollections" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -369,19 +382,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.HamcrestCollectionsTest.test" />
-      <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenHasItems_thenOk" />
-      <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenContains_thenOk" />
-      <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenContainsInAnyOrder_thenOk" />
       <item itemvalue="JUnit.HamcrestCollectionsTest" />
+      <item itemvalue="JUnit.TestGuavaCollections.test" />
+      <item itemvalue="JUnit.TestGuavaCollections.givenList_testTransform_thenOk" />
+      <item itemvalue="JUnit.TestGuavaCollections.givenIterables_testAddAll_thenOk" />
+      <item itemvalue="JUnit.TestGuavaCollections.givenCollection_testContains_thenOk" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestGuavaCollections.givenCollection_testContains_thenOk" />
+        <item itemvalue="JUnit.TestGuavaCollections.givenIterables_testAddAll_thenOk" />
+        <item itemvalue="JUnit.TestGuavaCollections.givenList_testTransform_thenOk" />
+        <item itemvalue="JUnit.TestGuavaCollections.test" />
         <item itemvalue="JUnit.HamcrestCollectionsTest" />
-        <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenContains_thenOk" />
-        <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenContainsInAnyOrder_thenOk" />
-        <item itemvalue="JUnit.HamcrestCollectionsTest.givenCollection_whenHasItems_thenOk" />
-        <item itemvalue="JUnit.HamcrestCollectionsTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -395,35 +408,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581685641028</updated>
-      <workItem from="1581685642368" duration="3656000" />
+      <workItem from="1581685642368" duration="6480000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HamcrestCollectionsTest_test - 2020.02.14 at 21h 26m 06s.xml">
-      <configuration name="HamcrestCollectionsTest.test" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_test - 2020.02.16 at 09h 29m 47s.xml">
+      <configuration name="TestGuavaCollections.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_test - 2020.02.14 at 21h 26m 25s.xml">
-      <configuration name="HamcrestCollectionsTest.test" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_test - 2020.02.16 at 09h 30m 04s.xml">
+      <configuration name="TestGuavaCollections.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_test - 2020.02.14 at 21h 26m 31s.xml">
-      <configuration name="HamcrestCollectionsTest.test" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_test - 2020.02.16 at 09h 34m 37s.xml">
+      <configuration name="TestGuavaCollections.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_givenCollection_whenHasItems_thenOk - 2020.02.15 at 10h 20m 47s.xml">
-      <configuration name="HamcrestCollectionsTest.givenCollection_whenHasItems_thenOk" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_test - 2020.02.16 at 09h 38m 05s.xml">
+      <configuration name="TestGuavaCollections.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_givenCollection_whenContains_thenOk - 2020.02.15 at 10h 30m 10s.xml">
-      <configuration name="HamcrestCollectionsTest.givenCollection_whenContains_thenOk" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_givenList_testTransform_thenOk - 2020.02.16 at 09h 44m 15s.xml">
+      <configuration name="TestGuavaCollections.givenList_testTransform_thenOk" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_givenCollection_whenContainsInAnyOrder_thenOk - 2020.02.15 at 10h 30m 14s.xml">
-      <configuration name="HamcrestCollectionsTest.givenCollection_whenContainsInAnyOrder_thenOk" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_givenList_testTransform_thenOk - 2020.02.16 at 09h 45m 41s.xml">
+      <configuration name="TestGuavaCollections.givenList_testTransform_thenOk" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestCollectionsTest_givenCollection_whenContains_thenOk - 2020.02.15 at 10h 31m 09s.xml">
-      <configuration name="HamcrestCollectionsTest.givenCollection_whenContains_thenOk" configurationId="JUnit" />
+    <history-entry file="TestGuavaCollections_givenList_testTransform_thenOk - 2020.02.16 at 09h 46m 01s.xml">
+      <configuration name="TestGuavaCollections.givenList_testTransform_thenOk" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGuavaCollections_givenIterables_testAddAll_thenOk - 2020.02.16 at 09h 48m 34s.xml">
+      <configuration name="TestGuavaCollections.givenIterables_testAddAll_thenOk" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGuavaCollections_givenIterables_testAddAll_thenOk - 2020.02.16 at 09h 49m 04s.xml">
+      <configuration name="TestGuavaCollections.givenIterables_testAddAll_thenOk" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGuavaCollections_givenIterables_testAddAll_thenOk - 2020.02.16 at 09h 49m 24s.xml">
+      <configuration name="TestGuavaCollections.givenIterables_testAddAll_thenOk" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3656000" />
+    <option name="totallyTimeSpent" value="6480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -432,7 +454,7 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32998565" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info id="Capture Tool" />
@@ -448,10 +470,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32992327" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32992327" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25753227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24318507" />
       <window_info id="JRebel" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -470,20 +492,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parent-java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -492,20 +500,6 @@
             <element signature="e#4503#4504#0" expanded="true" />
             <element signature="e#4556#4557#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hamcrest-collections/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -523,12 +517,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/HamcrestCollectionsTest.java">
+    <entry file="file://$PROJECT_DIR$/hamcrest-collections/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parent-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/base/Function.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/collect/Lists.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hamcrest-collections/src/test/java/com/niuge/learning/learning/HamcrestCollectionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guava-collections/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guava-collections/src/test/java/com/niuge/learning/TestGuavaCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -536,9 +598,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>learning-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
