@@ -12,6 +12,8 @@
         <module>parent-java</module>
         <module>hamcrest-collections</module>
         <module>guava-collections</module>
+        <module>guava-ordering</module>
+        <module>guava-functional</module>
     </modules>
 
     <dependencies>
@@ -20,6 +22,19 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>${junit.version}</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.hamcrest</groupId>
+                    <artifactId>hamcrest-core</artifactId>
+                </exclusion>
+            </exclusions>
+
+        </dependency>
+        <dependency>
+            <groupId>org.hamcrest</groupId>
+            <artifactId>java-hamcrest</artifactId>
+            <version>${java-hamcrest.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
@@ -30,5 +45,6 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <!--[mavenDefaultJdk] 上面三行改变maven默认使用的jdk，从1.5改为1.8。-->
         <junit.version>4.12</junit.version>
+        <java-hamcrest.version>2.0.0.0</java-hamcrest.version>
     </properties>
 </project>
